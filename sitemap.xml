@@ -13,7 +13,15 @@
         <lastmod>2014-03-06T01:08:50-05:00</lastmod>
     </url>
     <url>
+        <loc>http://SKBruck.github.io/octosite/testpage1.html</loc>
+        <lastmod>2014-03-06T01:17:59-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://SKBruck.github.io/octosite/robots.txt</loc>
         <lastmod>2014-03-06T01:08:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://SKBruck.github.io/octosite/testpage2.html</loc>
+        <lastmod>2014-03-06T01:18:55-05:00</lastmod>
     </url>
 </urlset>
