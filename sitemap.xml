@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://SKBruck.github.io/octosite/testpage1/</loc>
-        <lastmod>2014-03-06T01:48:21-05:00</lastmod>
+        <lastmod>2014-03-06T01:50:47-05:00</lastmod>
     </url>
     <url>
         <loc>http://SKBruck.github.io/octosite/blog/</loc>
@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>http://SKBruck.github.io/octosite/</loc>
-        <lastmod>2014-03-06T01:42:40-05:00</lastmod>
+        <lastmod>2014-03-06T01:50:38-05:00</lastmod>
     </url>
     <url>
         <loc>http://SKBruck.github.io/octosite/robots.txt</loc>
@@ -26,6 +26,6 @@
     </url>
     <url>
         <loc>http://SKBruck.github.io/octosite/testpage2/</loc>
-        <lastmod>2014-03-06T01:48:30-05:00</lastmod>
+        <lastmod>2014-03-06T01:50:43-05:00</lastmod>
     </url>
 </urlset>
